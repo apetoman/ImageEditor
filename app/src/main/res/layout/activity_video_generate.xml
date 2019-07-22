@@ -24,7 +24,7 @@
             android:paddingTop="5dp"
             android:paddingEnd="10dp"
             android:paddingBottom="5dp"
-            android:text="取消"
+            android:text="cancel"
             android:textColor="@color/font_white" />
 
         <TextView
@@ -40,7 +40,7 @@
             android:paddingTop="5dp"
             android:paddingEnd="10dp"
             android:paddingBottom="5dp"
-            android:text="完成"
+            android:text="Complete"
             android:textColor="@color/font_white" />
 
     </RelativeLayout>
@@ -67,7 +67,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="8dp"
             android:textColor="@color/font_white"
-            tools:text="翻页" />
+            tools:text="Page turning" />
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -133,7 +133,7 @@
                     android:paddingTop="3dp"
                     android:paddingEnd="20dp"
                     android:paddingBottom="3dp"
-                    android:text="添加音乐"
+                    android:text="Add music"
                     android:textColor="@color/font_white" />
 
                 <TextView
@@ -146,7 +146,7 @@
                     android:paddingTop="3dp"
                     android:paddingEnd="20dp"
                     android:paddingBottom="3dp"
-                    android:text="编辑音乐"
+                    android:text="Editing music"
                     android:textColor="@color/font_white" />
 
                 <TextView
@@ -159,7 +159,7 @@
                     android:paddingTop="3dp"
                     android:paddingEnd="20dp"
                     android:paddingBottom="3dp"
-                    android:text="删除音乐"
+                    android:text="Delete music"
                     android:textColor="@color/font_white" />
 
             </LinearLayout>

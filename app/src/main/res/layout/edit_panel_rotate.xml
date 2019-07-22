@@ -91,7 +91,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="18dp"
                 android:layout_marginTop="10dp"
-                tools:text="X轴: 30.25 度" />
+                tools:text="X Axis: 30.25 degree" />
 
             <SeekBar
                 android:id="@+id/sb_rotate_x"
@@ -107,7 +107,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="18dp"
                 android:layout_marginTop="10dp"
-                tools:text="Y轴: 30.25 度" />
+                tools:text="Y Axis: 30.25 degree" />
 
             <SeekBar
                 android:id="@+id/sb_rotate_y"
@@ -122,7 +122,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="18dp"
                 android:layout_marginTop="10dp"
-                tools:text="Z轴: 30.25 度" />
+                tools:text="Z Axis: 30.25 degree" />
 
             <SeekBar
                 android:id="@+id/sb_rotate_z"
@@ -145,7 +145,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="18dp"
                 android:layout_marginTop="10dp"
-                tools:text="X轴: 0.00" />
+                tools:text="X axis: 0.00" />
 
             <SeekBar
                 android:id="@+id/sb_translate_x"
@@ -162,7 +162,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="18dp"
                 android:layout_marginTop="10dp"
-                tools:text="Y轴: 0.00" />
+                tools:text="Y axis: 0.00" />
 
             <SeekBar
                 android:id="@+id/sb_translate_y"
@@ -179,7 +179,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="18dp"
                 android:layout_marginTop="10dp"
-                tools:text="Z轴: 0.00" />
+                tools:text="Z axis: 0.00" />
 
             <SeekBar
                 android:id="@+id/sb_translate_z"

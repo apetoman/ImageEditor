@@ -60,7 +60,7 @@
                     android:id="@+id/tv_adjust_name_1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    tools:text="参数" />
+                    tools:text="parameter" />
 
                 <TextView
                     android:id="@+id/tv_adjust_value_1"
@@ -90,7 +90,7 @@
                     android:id="@+id/tv_adjust_name_2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    tools:text="参数" />
+                    tools:text="parameter" />
 
                 <TextView
                     android:id="@+id/tv_adjust_value_2"
@@ -120,7 +120,7 @@
                     android:id="@+id/tv_adjust_name_3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    tools:text="参数" />
+                    tools:text="parameter" />
 
                 <TextView
                     android:id="@+id/tv_adjust_value_3"

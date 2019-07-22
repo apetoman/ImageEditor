@@ -14,7 +14,7 @@
         android:paddingTop="10dp"
         android:paddingBottom="10dp"
         android:textColor="@color/font_white"
-        tools:text="翻页" />
+        tools:text="Page turning" />
 
     <View
         android:layout_width="match_parent"

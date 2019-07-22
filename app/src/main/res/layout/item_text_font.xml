@@ -16,7 +16,7 @@
         android:gravity="center"
         android:textColor="@color/font_white"
         android:textSize="18sp"
-        tools:text="汉" />
+        tools:text="Chinese" />
 
     <TextView
         android:id="@+id/tv_font_name"

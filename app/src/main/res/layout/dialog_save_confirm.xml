@@ -10,7 +10,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:text="保存设置"
+        android:text="Save Settings"
         android:textColor="@color/font_white" />
 
     <TextView
@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:layout_marginTop="10dp"
-        android:text="保存格式"
+        android:text="Save format"
         android:textColor="@color/font_white" />
 
     <RadioGroup
@@ -56,7 +56,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
         android:layout_marginTop="10dp"
-        android:text="保存质量: 100"
+        android:text="Quality of preservation: 100"
         android:textColor="@color/font_white" />
 
     <SeekBar
